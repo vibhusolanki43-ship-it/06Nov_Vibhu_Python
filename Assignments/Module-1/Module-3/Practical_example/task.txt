@@ -1,0 +1,2 @@
+This is a sample task file.
+It contains multiple lines of text.

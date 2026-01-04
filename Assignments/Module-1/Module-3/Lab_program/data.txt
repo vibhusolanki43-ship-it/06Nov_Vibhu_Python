@@ -1,0 +1,3 @@
+Python is easy to learn.
+File handling is an important concept.
+This program writes multiple strings into a file.
