@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "vibhu9804",
+            "password": "test1234",
+            "full_name": "vibhusolanki"
+        }
+    ],
+    "posts": [],
+    "comments": []
+}
